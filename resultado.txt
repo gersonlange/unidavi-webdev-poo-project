@@ -1,0 +1,90 @@
+Checklist:
+
+Basquete.java
+
+(1) encapsulamento - atributos de instância privados (1 - não usa, 2 - metade, 3 - todos)
+(3) encapsulamento - cobertura de código superior a 80% (1- abaixo, 2 - 80%, 3 - 100%)
+(2) herança - uso de métodos protegidos (1 - não usa, 2 - usa)
+(3) polimorfismo - uso de cast up/widening em atributos de instância (1 - não usa, 2 - usa, 3 - usa muito)
+(1) polimorfismo - uso de cast up/widening em parametros de entrada de metodos (1 - não usa, 2 - usa, 3 - usa muito)
+
+10 pontos 
+
+----------------------------------------------------------------------------------------
+BasquetePosicao.java
+
+(1) encapsulamento - atributos de instância privados (1 - não usa, 2 - metade, 3 - todos)
+(1) encapsulamento - cobertura de código superior a 80% (1- abaixo, 2 - 80%, 3 - 100%)
+(1) herança - uso de métodos protegidos (1 - não usa, 2 - usa)
+(1) polimorfismo - uso de cast up/widening em atributos de instância (1 - não usa, 2 - usa, 3 - usa muito)
+(1) polimorfismo - uso de cast up/widening em parametros de entrada de metodos (1 - não usa, 2 - usa, 3 - usa muito)
+
+5 pontos 
+
+----------------------------------------------------------------------------------------
+Esporte.java
+
+(3) encapsulamento - atributos de instância privados (1 - não usa, 2 - metade, 3 - todos)
+(2) encapsulamento - cobertura de código superior a 80% (1- abaixo, 2 - 80%, 3 - 100%)
+(1) herança - uso de métodos protegidos (1 - não usa, 2 - usa)
+(3) polimorfismo - uso de cast up/widening em atributos de instância (1 - não usa, 2 - usa, 3 - usa muito)
+(2) polimorfismo - uso de cast up/widening em parametros de entrada de metodos (1 - não usa, 2 - usa, 3 - usa muito)
+
+11 pontos 
+
+----------------------------------------------------------------------------------------
+Futebol.java
+
+(1) encapsulamento - atributos de instância privados (1 - não usa, 2 - metade, 3 - todos)
+(3) encapsulamento - cobertura de código superior a 80% (1- abaixo, 2 - 80%, 3 - 100%)
+(2) herança - uso de métodos protegidos (1 - não usa, 2 - usa)
+(3) polimorfismo - uso de cast up/widening em atributos de instância (1 - não usa, 2 - usa, 3 - usa muito)
+(1) polimorfismo - uso de cast up/widening em parametros de entrada de metodos (1 - não usa, 2 - usa, 3 - usa muito)
+
+10 pontos 
+
+----------------------------------------------------------------------------------------
+FutebolPosicao.java
+
+(1) encapsulamento - atributos de instância privados (1 - não usa, 2 - metade, 3 - todos)
+(1) encapsulamento - cobertura de código superior a 80% (1- abaixo, 2 - 80%, 3 - 100%)
+(1) herança - uso de métodos protegidos (1 - não usa, 2 - usa)
+(1) polimorfismo - uso de cast up/widening em atributos de instância (1 - não usa, 2 - usa, 3 - usa muito)
+(1) polimorfismo - uso de cast up/widening em parametros de entrada de metodos (1 - não usa, 2 - usa, 3 - usa muito)
+
+5 pontos 
+
+----------------------------------------------------------------------------------------
+Handebol.java
+
+(1) encapsulamento - atributos de instância privados (1 - não usa, 2 - metade, 3 - todos)
+(3) encapsulamento - cobertura de código superior a 80% (1- abaixo, 2 - 80%, 3 - 100%)
+(2) herança - uso de métodos protegidos (1 - não usa, 2 - usa)
+(3) polimorfismo - uso de cast up/widening em atributos de instância (1 - não usa, 2 - usa, 3 - usa muito)
+(1) polimorfismo - uso de cast up/widening em parametros de entrada de metodos (1 - não usa, 2 - usa, 3 - usa muito)
+
+10 pontos 
+
+----------------------------------------------------------------------------------------
+HandebolPosicao.java
+
+(1) encapsulamento - atributos de instância privados (1 - não usa, 2 - metade, 3 - todos)
+(1) encapsulamento - cobertura de código superior a 80% (1- abaixo, 2 - 80%, 3 - 100%)
+(1) herança - uso de métodos protegidos (1 - não usa, 2 - usa)
+(1) polimorfismo - uso de cast up/widening em atributos de instância (1 - não usa, 2 - usa, 3 - usa muito)
+(1) polimorfismo - uso de cast up/widening em parametros de entrada de metodos (1 - não usa, 2 - usa, 3 - usa muito)
+
+5 pontos 
+
+----------------------------------------------------------------------------------------
+Jogador.java
+
+(3) encapsulamento - atributos de instância privados (1 - não usa, 2 - metade, 3 - todos)
+(3) encapsulamento - cobertura de código superior a 80% (1- abaixo, 2 - 80%, 3 - 100%)
+(2) herança - uso de métodos protegidos (1 - não usa, 2 - usa)
+(3) polimorfismo - uso de cast up/widening em atributos de instância (1 - não usa, 2 - usa, 3 - usa muito)
+(3) polimorfismo - uso de cast up/widening em parametros de entrada de metodos (1 - não usa, 2 - usa, 3 - usa muito)
+
+14 pontos 
+
+----------------------------------------------------------------------------------------
