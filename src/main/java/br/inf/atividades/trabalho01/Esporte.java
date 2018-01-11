@@ -5,7 +5,9 @@ import java.util.Arrays;
 
 public class Esporte<E>
 {
-	private int nrjogadores, tempos, pontos;
+	private int nrjogadores;
+	private int tempos;
+	private int pontos;
 	private LocalTime tempoPeriodo;
 	private int[] pontuacao;
 	private E[] posicoes;
